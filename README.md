@@ -1,2 +1,2 @@
-Global Fuel Prices Analysis Project overview : This project analyses global prices using Tableu. Dataset: This dataset conatin global fuel price information from different countries . project Visualization: This project include 9 charts analysing global furl prices. Tableau link:https://public.tableau.com/authoring/HarshitaPatel/Story1#2
+Global Fuel Prices Analysis Project overview : This project analyses global prices using Tableu. Dataset: This dataset conatin global fuel price information from different countries . project Visualization: This project include 9 charts analysing global furl prices. Tableau link: https://public.tableau.com/authoring/HarshitaPatel/Story1#1
 Demo link:https://drive.google.com/file/d/1t6lxZEiUIP_d-WnWGAmXQ3TnkD80P8Zj/view?usp=sharing
